@@ -1,0 +1,7 @@
+{
+  "name": "projekt_triage",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.4"
+  }
+}
